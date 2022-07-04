@@ -1,5 +1,8 @@
 # cw1-daniel
 
+NAME: Okoruwe Daniel
+MISIS: M00852416
+https://github.com/d-okalibe/cw3--individual
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
