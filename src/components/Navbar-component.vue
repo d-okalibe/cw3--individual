@@ -10,7 +10,7 @@ export default {
 };
 </script>
 <template>
-  <nav class="navbar navbar-light bg-white border-bottom navbar-expand">
+  <nav class="navbar border-bottom navbar-expand colour-nav">
     <div class="container-fluid">
       <a class="navbar-brand fw-bold" href="#">🦸SchoolHero</a>
       <button
